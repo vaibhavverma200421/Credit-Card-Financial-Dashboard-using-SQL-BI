@@ -83,6 +83,9 @@ The dataset contains information related to:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of dashboards here)*
+
+Credit card transcation dashboard preview - "images/Credit Card Transaction Dashboard.png"
+
+Customer trasncation reposrt preview - "images/Customer Transaction Report.png"
 
 
